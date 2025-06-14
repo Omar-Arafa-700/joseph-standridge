@@ -62,7 +62,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-8 md:mb-10 text-gray-900 dark:text-white">Skills & Tools</h2>
           <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-4 md:gap-6 justify-items-center">
-            <SkillIcon src="/images/excel.jpg" alt="Excel" name="Microsoft Excel" />
+            <SkillIcon src="/images/excel.svg" alt="Excel" name="Microsoft Excel" />
             <SkillIcon src="/images/python.svg" alt="Python" name="Python" />
             <SkillIcon src="/images/rstudio.svg" alt="R" name="R Studio" />
             <SkillIcon src="/images/sql.svg" alt="SQL" name="SQL" />
