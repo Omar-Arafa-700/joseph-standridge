@@ -31,9 +31,9 @@ export default function Home() {
                   className="w-5 h-5 md:w-6 md:h-6 transition-transform duration-300 hover:scale-110"
                 />
               </Link>
-              <div className="flex flex-col sm:flex-row gap-3 sm:gap-6 text-white items-center">
-                <a href="tel:17069146371" className="text-lg md:text-xl font-medium hover:text-gray-300 transition-colors">(706) 914-6371</a>
-                <a href="mailto:josephstandridge@gmail.com" className="text-lg md:text-xl font-medium hover:text-gray-300 transition-colors">josephstandridge@gmail.com</a>
+              <div className="flex flex-col sm:flex-row gap-3 sm:gap-6 text-white sm:text-white items-center">
+                <a href="tel:17069146371" className="text-lg md:text-xl font-medium text-white hover:text-gray-300 transition-colors">(706) 914-6371</a>
+                <a href="mailto:josephstandridge@gmail.com" className="text-lg md:text-xl font-medium text-white hover:text-gray-300 transition-colors">josephstandridge@gmail.com</a>
               </div>
             </div>
           </div>
